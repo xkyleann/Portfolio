@@ -24,7 +24,6 @@
           <li><a href="./Pages/projects.md">Projects</a></li>
           <li><a href="./Pages/qualifications.md">Skills & Qualifications</a></li>
           <li><a href="./Pages/extracurriculars.md">Honors & Extracurriculars</a></li>
-          <li>. . .</li>
         </ul>
       </td>
     </tr>
