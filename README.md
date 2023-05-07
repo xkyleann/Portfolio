@@ -2,7 +2,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Information</b></td>
+      <td><b><strong>Information</strong></b></td>
       <td width="100%" rowspan="4">
        <img alt="Photo" src="./assets/pic1.jpg" />
       </td>
