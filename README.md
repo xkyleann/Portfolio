@@ -4,18 +4,15 @@
     <tr>
       <td><b>Information</b></td>
       <td width="100%" rowspan="4">
-        <img alt="Photo" src="
-" />
+       <img alt="Photo" src="./assets/pic1.jpg" />
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li>your@email.com</li>
-          <li><a href="https://www.linkedin.com">LinkedIn</a></li>
-          <li><a href="https://github.com">GitHub</a></li>
-          <li>. . .</li>
-        </ul>
+          <li>tutkuedibegayda@gmail.com</li>
+          <li><a href="./links.md">Links</a></li>
+      </ul>
       </td>
     </tr>
     <tr><td><b>Showcase</b></td></tr>
