@@ -19,11 +19,13 @@
     <tr>
       <td width="50%">
         <ul>
+          <li><a href="./pages/career_objective.md">Career Objective</a></li>
           <li><a href="./pages/education.md">Education</a></li>
           <li><a href="./pages/experience.md">Experience</a></li>
-          <li><a href="./pages/projects.md">Projects</a></li>
+          <li><a href="./pages/projects.md">Projects</a></li> a
+          <li><a href="./pages/awards_honors.md">Awards & Honors</a></li>
+          <li><a href="./pages/extracurriculars_certificates.md">Extracurricular Activites & Certificates</a></li>
           <li><a href="./pages/qualifications.md">Skills & Qualifications</a></li>
-          <li><a href="./pages/extracurriculars.md">Honors & Extracurriculars</a></li>
         </ul>
       </td>
     </tr>
