@@ -19,7 +19,6 @@
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="./pages/career_objective.md">Career Objective</a></li>
           <li><a href="./pages/education.md">Education</a></li>
           <li><a href="./pages/experience.md">Experience</a></li>
           <li><a href="./pages/projects.md">Projects</a></li> 
