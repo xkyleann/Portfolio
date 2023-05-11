@@ -12,7 +12,7 @@
         <ul>
          <li>Open-minded, risk-taker, knowledgeable and hard-working high school graduated student with 3.5 years of work experience, proven knowledge of computer aided engineering and field performance in robotics / implant microchip technology. Aiming to leverage abilities to successfully fill the Undergraduate (Bachelor’s) degree, Computer Science at AGH Science and Technology University</li>
           <li><b>tutkuedibegayda@gmail.com</b></li>
-          <li><a href="./links.md">Links</a></li>
+          <li><a href="./pages/links.md">Links</a></li>
       </ul>
       </td>
     </tr>
