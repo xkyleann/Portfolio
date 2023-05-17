@@ -3,20 +3,6 @@
 <h1 align="center">Experience</h1>
 <table>
   <tr>
-    <td width="80%">
-      <b>Public Relations Coordinator </b> | Istanbul,Turkey| June 2018 - Jul 2021 <br />
-     TUKU <br />
-      <ul>
-        <li>TUKU is the company that provides entrepreneurship events and activities for all ages of people. I was 
-head of the Public Relations which was also planning/ creating organizational process regarding of the 
-team.</li>
-        <li> <b> Skills</b> : Public Relations · Digital Marketing · Social Media </li>
-      </ul>
-    </td>
-    <td><image alt="T-Mobile" src="../assets/images/tmo-logo.jpg"/></td>
-  </tr>
-  </tr>
-  <tr>
     <td>
       <b>Ambassador</b> | United States,Texas | Apr 2018 - Jul 20212<br />
       FIRST<br />
