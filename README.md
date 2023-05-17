@@ -1,6 +1,6 @@
 <h1 align="center">Tutku Gayda</h1>
 <table>
-  <tbody>
+  <body>
     <tr>
       <td><b><strong>Information</strong></b></td>
       <td width="100%" rowspan="4">
