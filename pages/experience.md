@@ -12,7 +12,9 @@ describing teams, robots and their properties to the politicians, journalists, a
 came from all over the world.</li>
       </ul>
     </td>
-    <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
+   <td>
+  <img alt="SU" src="../assets/s2.png" style="width: 10000000000000000000000000000000000000000000000000000%; height: 100px;" />
+</td>
   </tr>
   <tr>
     <td>
@@ -25,7 +27,9 @@ microchips in neuroscience and developed a prototype microchip with my software.
         <li> <b> Skills</b> : Machine Learning · Artificial Intelligence (AI) · Implanted Microchip Technology </li>
       </ul>
     </td>
-    <td><image alt="THD" src="../assets/images/thd-logo.png" /></td>
+    <td>
+  <img alt="SU" src="../assets/s4.jpg" style="width: 10000000000000000000000000000000000000000000000000000%; height: 100px;" />
+</td>
   </tr>
     <tr>
     <td>
@@ -33,13 +37,14 @@ microchips in neuroscience and developed a prototype microchip with my software.
       Pearson <br />
       <ul>
         <li>Experienced as an UX-UI designer, lead for the commercial and public relationships.  </li>
-        <li> <b> Skills</b> : 
-                   - Solving complex business problems into simple and engaging B2B products. 
+        <li> <b> Skills</b> :
                    - Figma, Adobe Suite 
                    - HTML · Web Development </li>
       </ul>
     </td>
-    <td><image alt="THD" src="../assets/images/thd-logo.png" /></td>
+    <td>
+  <img alt="SU" src="../assets/s3.png" style="width: 10000000000000000000000000000000000000000000000000000%; height: 100px;" />
+</td>
   </tr>
   <tr>
     <td>
@@ -50,7 +55,9 @@ microchips in neuroscience and developed a prototype microchip with my software.
         <li> <b> Skills</b> :  SQL · PostgreSQL · SCRUM </li>
       </ul>
     </td>
-    <td><image alt="THD" src="../assets/images/thd-logo.png" /></td>
+   <td>
+  <img alt="SU" src="../assets/s1.png" style="width: 10000000000000000000000000000000000000000000000000000%; height: 100px;" />
+</td>
 </table>
 
 [Back to main page](./../README.md)
