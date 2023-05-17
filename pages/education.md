@@ -9,7 +9,6 @@
      AGH University of Science and Technolgy - Poland,Krakow PL<br />
       GPA: 3.87 <br />
     </td>
-    <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
   </tr>
   <tr>
     <td>
@@ -17,7 +16,6 @@
       ENKA High Schools - Turkey, Sakarya <br />
       GPA: 3.46 
     </td>
-    <td><image alt="GFSD" src="../assets/images/gfsd-logo.jpg" /></td>
   </tr>
 </table>
 
