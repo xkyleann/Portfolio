@@ -29,7 +29,7 @@ microchips in neuroscience and developed a prototype microchip with my software.
   </tr>
     <tr>
     <td>
-      <b>Web Developer, Pearson</b> | Texas, United States (Seasonal- Remote) |  Feb 2019 - Jan 2020 <br />
+      <b>Web Developer, Pearson</b> | Texas, United States (Seasonal- Remote) |  Feb 2019 - April 2019 <br />
       Pearson <br />
       <ul>
         <li>Experienced as an UX-UI designer, lead for the commercial and public relationships.  </li>
