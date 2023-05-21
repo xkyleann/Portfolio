@@ -54,7 +54,7 @@ came from all over the world.</li>
       </ul>
     </td>
     <td>
-  <img alt="SU" src="../assets/s3.png" style="width: 10000000000000000000000000000000000000000000000000000%; height: 100px;" />
+  <img alt="SU" src="../assets/s3.png" style="width: 1000%; height: 300px;" />
 </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ came from all over the world.</li>
       </ul>
     </td>
    <td>
-  <img alt="SU" src="../assets/s1.png" style="width: 10000000000000000000000000000000000000000000000000000%; height: 100px;" />
+  <img alt="SU" src="../assets/s1.png" style="width: 1000%; height: 200px;" />
 </td>
 </table>
 
