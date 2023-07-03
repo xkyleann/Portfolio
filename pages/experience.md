@@ -22,7 +22,7 @@ came from all over the world.</li>
   </tr>
   <tr>
     <td>
-      <b>Researcher</b> | Texas, United States (Seasonal) |  June 2018 - Jul 2018 <br />
+      <b>Researcher |  Data Scientist </b> | Texas, United States (Seasonal) |  June 2018 - Jul 2018 <br />
       Rice University <br />
       <ul>
         <li> Regarding my research on neuroscience and "Implant Microchip Technology", I seized the opportunity to continue my studies at Rice University. Worked as production (prototype) and databases part. </li>
