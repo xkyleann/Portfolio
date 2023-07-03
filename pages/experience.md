@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>
-      <b>Software Lead</b> | United States,Texas | Jun 2018 - Jul 2021<br />
+      <b>Data Scientist</b> | United States,Texas - Turkey | Jun 2018 - Jul 2021<br />
       FIRST<br />
       <ul>
-        <li>FIRST (For Inspiration and Recognition of Science and Technology) is a globally recognized organization that focuses on inspiring and engaging young people in science, technology, engineering, and mathematics (STEM) fields. 
-          During championship of the “FIRST Robotics”, I was selected as Software Lead and Ambassador. Responsible for 
+        <li> FIRST (For Inspiration and Recognition of Science and Technology) is a globally recognized organization that focuses on inspiring and engaging young people in science, technology, engineering, and mathematics (STEM) fields. 
+          During the championship of the “FIRST Robotics”, I was selected as Software Lead and Ambassador. Responsible for 
           describing teams, robot,s and their properties to the politicians, journalists, and academicians which 
 came from all over the world.</li>
          <li> <b> Team Leadership:</b> Proven ability to lead and inspire software development teams, providing guidance, mentorship, and fostering a collaborative work environment. </li>
