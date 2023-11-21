@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <b>Bachelor of Science in Computer Science, Minor in Data Science</b> | (2021 to Present)<br />
+      <b>Bachelor of Science in Computer Science, Minor in Data Science</b> | <br />
      AGH University of Science and Technolgy - Poland,Krakow PL<br />
       GPA: 3.87 <br />
     </td>
