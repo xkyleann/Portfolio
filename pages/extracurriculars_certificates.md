@@ -12,10 +12,7 @@
 | **_Researcher_**, Yad Vashem; Israel, Jerusalem — Jul 2019 —-> Topic: Young Leadership Seminar  | <img width="400"  alt="Ekran Resmi 2023-05-11 03 40 34" src="https://github.com/xkyleann/Portfolio/assets/128597547/aa7cd095-e376-407e-93c0-6c037ba69139">   |                   
 | **_Robotics Operator_**, VEX Robotics; Turkey, Istanbul — Jun 2018 —-> Topic: VEX  ang YGA (Young Guru Academy) Summer Camp   | <img width="300" alt="Ekran Resmi 2017-05-31 20 09 59" src="https://github.com/xkyleann/Portfolio/assets/128597547/3e048079-b161-42bd-a81f-69f2b7e9ee18">         |
 | **_Academic Captain_ - Delegate**,  TBMUN, YECAF, CMUN; Turkey, Adapazari, Istanbul —-> Topic: SDG (Sustainable Development Goals) | <img width="300" alt="Ekran Resmi 2017-05-31 20 09 59" src="https://github.com/xkyleann/Portfolio/assets/128597547/d0aad984-61b0-4280-a360-965342208667">   <img width="300" alt="Ekran Resmi 2017-05-31 20 09 59" width="300" alt="Ekran Resmi 2017-05-31 20 09 59" src="https://github.com/xkyleann/Portfolio/assets/128597547/596d343a-3633-466f-9b58-68425be487fa"> |
-|  CODE --> Topic: Basic Concepts of Computer Science  | <img width="300" alt="Ekran Resmi 2017-05-31 20 09 59" src="https://github.com/xkyleann/Portfolio/assets/128597547/bf69994c-a4cf-457b-b315-f00aa2b570f0">         |
-|  HackerRank --> Topic: Certified Knowledge of **_CSS_**  |     |
-|  HackerRank --> Topic: Certified Knowledge of **_SQL_**  | 
-
+|  CODE --> Topic: Basic Concepts of Computer Science  | <img width="300" alt="Ekran Resmi 2017-05-31 20 09 59" src="https://github.com/xkyleann/Portfolio/assets/128597547/bf69994c-a4cf-457b-b315-f00aa2b570f0">         
 ---
 
 
