@@ -22,7 +22,7 @@
         <ul>
           <li><a href="./pages/education.md">Education</a></li>
           <li><a href="./pages/experience.md">Experience</a></li>
-          <li><a href="./pages/projects.md">Projects</a></li> 
+          <li><a href="[./pages/projects.md](https://github.com/xkyleann?tab=repositories)">Projects</a></li> 
           <li><a href="./pages/awards_honors.md">Awards & Honors</a></li>
           <li><a href="./pages/extracurriculars_certificates.md">Extracurricular Activites & Certificates</a></li>
           <li><a href="./pages/qualifications.md">Skills & Qualifications</a></li>
