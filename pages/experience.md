@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <b>Data Scientist</b> | United States,Texas - Turkey | Jun 2018 - Jul 2021<br />
+      <b>Software Engineer Intern</b> | United States,Texas - Turkey | July 2019 - August 2019 <br />
       FIRST<br />
       <ul>
         <li> FIRST (For Inspiration and Recognition of Science and Technology) is a globally recognized organization that focuses on inspiring and engaging young people in science, technology, engineering, and mathematics (STEM) fields. 
@@ -39,18 +39,17 @@ came from all over the world.</li>
   </tr>
     <tr>
     <td>
-      <b>Web Developer, Pearson</b> | Texas, United States (Seasonal- Remote) |  May 2019 - Jul 2020 <br />
+      <b>Data Scientist, Pearson</b> | Texas, United States (Seasonal- Remote) |  Jun 2017 - Jul 2019 <br />
       Pearson <br />
       <ul>
         <li>Experienced as a Web Developer, and lead for commercial and public relations. </li>
-         <li> <b> Web Development:</b> Proficiency in HTML, CSS, and JavaScript, along with experience in front-end frameworks like Figma.</li>
-        <li> <b> Back-end Development: </b>Knowledge of server-side programming languages such as Node.js and Python.</li>
+         <li> Implemented a fraud detection system for a financial institution. The system is designed to balance fraud prevention with minimising false positives, requiring careful model calibration. </li>
+        <li> Cleaned and transformed a customer dataset (100GB) in a data warehouse using SQL scripting and data wrangling techniques. Ensured data quality for downstream analysis.</li>
         <li> <b> Database Management: </b> Experience with database systems such as MySQL and PostgreSQL. Knowledge of SQL and NoSQL database querying. </li>
         <li> <b> Version Control: </b> Proficiency in using Git version control systems to manage codebase and collaborate effectively with a development team. </li>
-        <li> <b> UI/UX Design: </b> Understanding of user-centered design principles, ability to create visually appealing interfaces, and optimize user experience.</li>
+        <li> Built a sentiment analysis model for social media data using machine learning techniques. Achieved 78% accuracy, balancing model complexity with computational efficiency.</li>
         <li> <b> Problem-Solving: </b> Strong analytical and problem-solving skills to troubleshoot issues and find effective solutions.</li>
         <li> <b> Collaboration and Communication: </b> Ability to work collaboratively within a team, communicate effectively with stakeholders, and manage project requirements. </li>
-        <li> <b> Skills:</b> UML Tools · CSS · Git · Figma · Python · SQL · HTML · Web Development</li>
       </ul>
     </td>
     <td>
